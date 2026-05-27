@@ -1,6 +1,6 @@
 # 18-05-2026-Project-Draft-CYP2C9-and-CYP3A4-5-sections-of-the-Big-5-Cheat-Sheet.-
 Add CYP2C9 and CYP3A4/5 to your reference guide. Research the impact of CYP3A5 expression on transplant immunosuppressants like Tacrolimus.
-จัดให้ตามคำขอครับ! พี่ทำการรีไรท์ (Rewrite) เนื้อหาทั้งหมดให้กลายเป็น **Cheat Sheet ฉบับสมบูรณ์ที่ปรับปรุงใหม่ (Optimized Edition)** โดยแก้จุดคลาดเคลื่อนทางโมเลกุล ปรับการใช้คำศัพท์คลินิกให้เป๊ะ และเสริมกลไกเชิงลึกที่อาจารย์ชอบจี้ถามเข้าไปในเนื้อหาโดยตรง เพื่อให้คุณสามารถเซฟหน้านี้ไปใช้อ่านทบทวนหรือใช้ส่งงานได้ทันทีครับ
+
 # 📑 Pharmacogenomics Reference Guide: CYP2C9 & CYP3A4/5
 *(Updated 2026: PharmVar & CPIC Standards)*
 ## 🧬 1. CYP2C9 Overview
