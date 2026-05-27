@@ -1,8 +1,7 @@
 # 18-05-2026-Project-Draft-CYP2C9-and-CYP3A4-5-sections-of-the-Big-5-Cheat-Sheet.-
 Add CYP2C9 and CYP3A4/5 to your reference guide. Research the impact of CYP3A5 expression on transplant immunosuppressants like Tacrolimus.
 
-# 📑 Pharmacogenomics Reference Guide: CYP2C9 & CYP3A4/5
-*(Updated 2026: PharmVar & CPIC Standards)*
+
 ## 🧬 1. CYP2C9 Overview
  * **Gene Location:** Chromosome 10q23.33 (9 exons, 490 amino acids)
  * **บทบาทหลัก:** รับผิดชอบกระบวนการ Phase I oxidative metabolism ของยากรดอ่อน (Weakly acidic drugs) รวมถึงยาที่มีดัชนีการรักษาแคบ (Narrow Therapeutic Index: NTI) เช่น S-warfarin และ Phenytoin
